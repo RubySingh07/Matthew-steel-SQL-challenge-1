@@ -8,6 +8,5 @@ Can you analyse the following data to provide him with all the answers he requir
 
 
 ![image](https://github.com/RubySingh07/Matthew-steel-SQL-challenge-1/assets/146185975/46ace136-c1eb-47ae-93b4-cb9ecd3c1f16)
-![image](https://github.com/RubySingh07/Matthew-steel-SQL-challenge-1/assets/146185975/f3cd0a9e-d97f-46e0-9bb0-bce858066b79)
 
 
